@@ -1,4 +1,4 @@
-# Freecodecamp Responsive Web Design
+# FreeCodeCamp Responsive Web Design
 
 ![freecodecamp]( )
 
